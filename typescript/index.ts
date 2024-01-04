@@ -1,1 +1,7 @@
-console.log("Hello TypeScript");
+import abstraction from "./adstraction";
+
+function main() {
+  abstraction();
+}
+
+main();
